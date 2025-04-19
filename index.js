@@ -1,3 +1,4 @@
+// Trigger Railway Deployment
 // MARKET DOJO DISCORD BOT — FINAL STRUCTURE WITH EMOJIS & FORUMS
 
 require('dotenv').config();
